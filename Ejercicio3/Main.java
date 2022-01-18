@@ -13,6 +13,9 @@ public class Main {
         //La instanciamos
         Scanner input = new Scanner(System.in); 
         
+        //Pedimos los datos por la consola
+        System.out.print("Introduzca el numero, le dire si es divisible por 3 y por 5");
+        
         //Creamos la variable num para capturar los datos que introduzca el usuario
         int num = Integer.parseInt(input.nextLine()); 
         
