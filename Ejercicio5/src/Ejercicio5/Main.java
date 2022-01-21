@@ -20,7 +20,7 @@ public class Main {
         System.out.print("Introduzca el caracter le dire si es un digito o vocal o consonante: ");
         
         //capturamos el dato en una variable de tipo char
-        char dato = input.nextLine().charAt(0);
+        char dato = input.nextLine().trim().charAt(0);
         
         //instanciamos la clase determinar y le pasamos el dato
         Determinar obj = new Determinar(dato);
