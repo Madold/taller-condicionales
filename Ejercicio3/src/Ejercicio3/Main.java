@@ -17,7 +17,7 @@ public class Main {
         System.out.print("Introduzca el numero, le dire si es divisible por 3 y por 5");
         
         //Creamos la variable num para capturar los datos que introduzca el usuario
-        int num = Integer.parseInt(input.nextLine()); 
+        int num = Integer.parseInt(input.nextLine().trim()); 
         
         //Instanciamos la clase divisible y le pasamos la variable num para manipularla en ella
         Divisible obj = new Divisible(num);
