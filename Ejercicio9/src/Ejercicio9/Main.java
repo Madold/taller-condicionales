@@ -3,6 +3,16 @@
     EJERCICIO 9 ENUNCIADO:
     Leer el dia y el mes y escribir a que estación pertenece (VERANO, OTOÑO, INVIERNO O
     PROMAVERA)
+    
+    ADVERTENCIA DATOS USADOS PARA EL EJERCICIO:
+    
+    Primavera: inicia el 20 de marzo y finaliza el 21 de junio.
+
+    Verano: inicia el 21 de junio y finaliza el 23 de septiembre.
+
+    Otoño: inicia el 23 de septiembre y finaliza el 21 de diciembre.
+
+    Invierno: inicia el 21 de diciembre y finaliza el 20 de marzo.
 
  */
 package Ejercicio9;
